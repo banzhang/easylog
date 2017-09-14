@@ -1,6 +1,6 @@
 {
     "name": "chunshiban/easylog",
-    "description": "zhe是一个日志收集组件，用于补充yaf的日志组件",
+    "description": "这是一个日志收集组件，用于补充yaf的日志组件",
     "type": "library",
     "license": "MIT",
     "authors": [
